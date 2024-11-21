@@ -1,1 +1,3 @@
-This is our first git commit ever!
+This is our first git commit ever and we are excited!
+
+We want to add stuff for our second commit!
