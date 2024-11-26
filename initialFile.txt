@@ -5,3 +5,5 @@ We want to add stuff for our second commit!
 We are going to add one more thing, but on newBranch.
 
 One last edit on thirdBranch.
+
+Another edit on thirdBranch.
