@@ -7,3 +7,5 @@ We are going to add one more thing, but on newBranch.
 One last edit on thirdBranch.
 
 Another edit on thirdBranch.
+
+Working on the file directly from master on the GitHub website.
